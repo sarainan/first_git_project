@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
 nuhs file
+=======
+semihs file
+>>>>>>> b5775c0a9be1ad59d19a6d24ac228ce0d5ba953c
