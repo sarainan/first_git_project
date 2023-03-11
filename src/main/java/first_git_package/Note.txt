@@ -1,0 +1,5 @@
+*****Git day1 ***********
+1)Create a project
+2)Create a github repository
+    *go to github
+    *Repositories>git
